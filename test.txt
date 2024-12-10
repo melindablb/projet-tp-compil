@@ -1,0 +1,33 @@
+                  /* projet compil 2024-2025 
+                  MEZAOUI DAMYA et BELABBAS MELINDA */
+
+PROGRAMME Test
+
+VAR{ 
+  INTEGER k, i, n, A[20];
+  FLOAT T[10];
+  CONST b=10,c=3; 
+}
+
+BEGIN
+
+IF ((var_1 + var_2) && (b>c) || (k==0))
+{
+  var_1 = b +2.6;
+
+    /* commentaire sur
+     deux lignes */
+
+  FOR (i : 1: 1 :n-10)
+    {
+    i=i+2;
+    }
+}
+ 
+//commentaire simple
+
+WRITELN('Entrez un nombre :');
+READLN(x) ;
+
+
+END
